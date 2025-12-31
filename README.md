@@ -103,13 +103,13 @@ This **Hospital Management System (HMS)** is a web-based application designed to
 ---
 
 ## 📂 Project Structure
-├── app.py / main.py # Application entry point
-├── models.py # Database models
-├── routes/ # Application routes
-├── templates/ # HTML templates
-├── static/ # CSS & assets
-├── requirements.txt # Dependencies
-├── README.md # Documentation
+- ├── app.py / main.py # Application entry point
+- ├── models.py # Database models
+- ├── routes/ # Application routes
+- ├── templates/ # HTML templates
+- ├── static/ # CSS & assets
+- ├── requirements.txt # Dependencies
+- ├── README.md # Documentation
 
 ## Create and activate a virtual environment:
 python -m venv venv
